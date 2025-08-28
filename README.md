@@ -1,6 +1,6 @@
 # E-Commerce MERN Store
 
-A full-stack E-commerce website built with the MERN stack (MongoDB, Express, React, Node.js).
+A full-stack E-commerce application built using the MERN stack (MongoDB, Express, React, Node.js), featuring user authentication, product management, and an admin dashboard.
 
 ## Features
 - User signup/login (JWT authentication)
